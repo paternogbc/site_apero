@@ -3,39 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/categories/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/efforts-bee/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/experiment/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/experiments/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/restoration/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/treedivnet/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/tropical-ecology/</loc>
-    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/competition/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/faciliatation/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/interaction-networks/</loc>
@@ -59,6 +35,9 @@
     <loc>/tags/review/</loc>
     <lastmod>2024-12-27T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-12-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/2025-gleiser/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,6 +48,9 @@
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/functional-diversity/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/restoration/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/tree-diversity/</loc>
@@ -124,6 +106,8 @@
     <loc>/license/</loc>
   </url><url>
     <loc>/publications/</loc>
+  </url><url>
+    <loc>/project/</loc>
   </url><url>
     <loc>/series/</loc>
   </url>
