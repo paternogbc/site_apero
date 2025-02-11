@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faciliatation on Gustavo B Paterno</title>
+    <link>/categories/faciliatation/</link>
+    <description>Recent content in Faciliatation on Gustavo B Paterno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/faciliatation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Key concepts and a world-wide look at plant recruitment networks</title>
+      <link>/publication/2024-alcantara/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-alcantara/</guid>
+      <description>Abstract     Plant–plant interactions are major determinants of the dynamics of terrestrial ecosystems. There is a long tradition in the study of these interactions, their mechanisms and their consequences using experimental, observational and theoretical approaches. Empirical studies overwhelmingly focus at the level of species pairs or small sets of species. Although empirical data on these interactions at the community level are scarce, such studies have gained pace in the last decade.</description>
+    </item>
+    
+    <item>
+      <title>The Phylogenetic Architecture of Recruitment Networks</title>
+      <link>/publication/2025-gleiser/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2025-gleiser/</guid>
+      <description>Abstract     Plant recruitment involves both stochastic and deterministic processes. Recruits may establish independently or interact nonrandomly with canopy plants. We explore this deterministic aspect by testing whether recruitment patterns are influenced by the phylogenetic history of canopy and recruiting plants. Since the effect of canopy plants in recruitment can be positive (facilitation), negative (competition) or neutral, we also estimated the phylogenetic signal separately for each interaction type.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restoration on Gustavo B Paterno</title>
+    <link>/categories/restoration/</link>
+    <description>Recent content in Restoration on Gustavo B Paterno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/categories/restoration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFForTS-BEE</title>
+      <link>/project/efforts-bee/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/project/efforts-bee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diverse and larger tree islands promote native tree diversity in oil palm landscapes</title>
+      <link>/publication/2024-paterno/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-paterno/</guid>
+      <description>Abstract     In monoculture-dominated landscapes, recovering biodiversity is a priority, but effective restoration strategies have yet to be identified. In this study, we experimentally tested passive and active restoration strategies to recover taxonomic, phylogenetic, and functional diversity of woody plants within 52 tree islands established in an oil palm landscape. Large tree islands and higher initial planted diversity catalyzed diversity recovery, particularly functional diversity at the landscape level.</description>
+    </item>
+    
+    <item>
+      <title>Combining planting trees and natural regeneration promotes long-term structural complexity in oil palm landscapes</title>
+      <link>/publication/2024-kikuchi/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2024-kikuchi/</guid>
+      <description>Abstract     Vegetation structural complexity has been identified as a vital factor for forest ecosystem function, stability, and resilience. However, agricultural land with much reduced structural complexity has largely replaced natural forests in the tropics. Therefore, restoring structural complexity in large-scale plantation monocultures by introducing agroforestry systems may counteract the loss of biodiversity and ecosystem functions. However, we still have limited knowledge of how the structural complexity of agroforests develops under different restoration treatments.</description>
+    </item>
+    
+  </channel>
+</rss>

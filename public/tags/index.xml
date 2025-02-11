@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Gustavo B Paterno</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Gustavo B Paterno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiments</title>
+      <link>/tags/experiments/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/experiments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TreeDivNet</title>
+      <link>/tags/treedivnet/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/treedivnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>/tags/review/</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/review/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

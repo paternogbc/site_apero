@@ -1,0 +1,45 @@
+{{ define "main" }}
+<main class="page-main w-100 pa4" role="main">
+  <section class="page-content w-100">
+    <article class="post-content w-100">
+      <header class="post-header w-100">
+        <h1 class="f1 lh-title mb3 fw4 w-100">{{ .Title }}</h1>
+        {{ if .Params.subtitle }}
+          <h4 class="f4 mt0 mb4 lh-title w-100">{{ .Params.subtitle }}</h4>
+        {{ end }}
+        {{ if .Params.show_author_byline }}
+          <p class="f6 lh-copy mv1 w-100">
+            {{ if .Params.author }}By {{ .Params.author }}{{ end }}
+            {{ with .Params.categories }} in{{ range . }}
+              <a href="{{ "categories/" | absURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}{{ end }}
+          </p>
+        {{ end }}
+        {{ if .Params.show_post_date }}
+          <p class="f7 db mv0 ttu w-100">{{ .PublishDate.Format "January 2, 2006" }}</p>
+        {{ end }}
+
+        {{ if .Params.links }}
+          <div class="ph0 pt5 w-100">
+            {{ partial "shared/btn-links.html" . }}
+          </div>
+        {{ end }}
+      </header>
+
+      <section class="post-body pt5 pb4 w-100">
+        {{ .Content }}
+        {{ .Scratch.Set "details" "closed" }}
+        {{ partial "shared/post-details.html" . }}
+      </section>
+
+      <footer class="post-footer w-100">
+        {{ partial "shared/post-pagination.html" . }}
+      </footer>
+    </article>
+
+    {{ if .Params.show_comments }}
+      {{ partial "shared/comments.html" . }}
+    {{ end }}
+  </section>
+</main>
+{{ end }}
