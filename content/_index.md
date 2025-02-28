@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I am a Brazilian ecologist passionate about the interplay between <b>biodiversity, functional and evolutionary ecology</b> and their application to <i><strong>ecosystem restoration</i></strong> 
+description: I am a ecologist passionate about the interplay between <b>biodiversity, functional and evolutionary ecology</b> and their application to <i><strong>ecosystem restoration</i></strong> 
 images:
 - img/cover_bigtrees.jpg
 show_action_link: true

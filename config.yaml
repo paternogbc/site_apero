@@ -49,8 +49,8 @@ params:
   logo: /img/favicon_resto.png
   mainSections:
     - publication
-    # - project
-    # - talk
+#    - project
+#    - talks
   math:
     renderer: katex
   navallcaps: yes
@@ -67,9 +67,15 @@ params:
     - icon: x-twitter
       icon_pack: fab
       url: https://x.com/paternogb
+    - icon: google-scholar
+      icon_pack: fab
+      url: https://scholar.google.com/citations?user=uNxyHMkAAAAJ&hl=en
     - icon: researchgate # icon name without the 'fa-'
       icon_pack: fab
       url: https://www.researchgate.net/profile/Gustavo-Paterno
+    - icon: linkedin-in
+      icon_pack: fab
+      url: https://www.linkedin.com/in/gustavo-paterno-209381269/
     - icon: orcid
       icon_pack: fab
       url: https://orcid.org/0000-0001-9719-3037
@@ -109,15 +115,19 @@ menu:
     - name: About
       title: Gustavo Paterno
       url: /about/
-      weight: 2
+    # weight: 2
     # - name: Projects
     #   title: Project Portfolio
     #   url: /project/
     #   weight: 2
+    # - name: Talks
+    #   title: Talks
+    #   url: /talk/
+      weight: 3
     - name: Publications
       title: Publications
       url: /publications/
-      weight: 3
+      weight: 4
 privacy:
   disqus:
     disable: no

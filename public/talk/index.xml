@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks that Last on Gustavo B Paterno</title>
+    <title>Talks &amp; Keynotes on Gustavo B Paterno</title>
     <link>https://gustavopaterno.com/talk/</link>
-    <description>Recent content in Talks that Last on Gustavo B Paterno</description>
+    <description>Recent content in Talks &amp; Keynotes on Gustavo B Paterno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://gustavopaterno.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gustavopaterno.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A campfire</title>
-      <link>https://gustavopaterno.com/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Tree Islands Enhance Biodiversity</title>
+      <link>https://gustavopaterno.com/talk/2025-02_science_talk_idr/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://gustavopaterno.com/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://gustavopaterno.com/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      
-      <guid>https://gustavopaterno.com/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A seedling</title>
-      <link>https://gustavopaterno.com/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      
-      <guid>https://gustavopaterno.com/talk/seedling/</guid>
-      <description></description>
+      <guid>https://gustavopaterno.com/talk/2025-02_science_talk_idr/</guid>
+      <description>Assciated publications     Paterno, G.B.*****, Brambach, F., Guerrero-Ramírez, N., Zemp, D. C., Cantillo, A. F., Camarretta, N., Moura, C. C. M., Gailing, O., Ballauff, J., Polle, A., Schlund, M., Erasmi, S., Iddris, N. A., Khokthong, W., Sundawati, L., Irawan, B., Hölscher, D., &amp;amp; Kreft, H. (2024). Diverse and larger tree islands promote native tree diversity in oil palm landscapes. Science, 386(6723), 795&amp;ndash;802. [doi]</description>
     </item>
     
   </channel>

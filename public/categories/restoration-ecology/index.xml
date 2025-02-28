@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Restoration Ecology on Gustavo B Paterno</title>
+    <link>https://gustavopaterno.com/categories/restoration-ecology/</link>
+    <description>Recent content in Restoration Ecology on Gustavo B Paterno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://gustavopaterno.com/categories/restoration-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EFForTS-BEE</title>
+      <link>https://gustavopaterno.com/project/efforts-bee/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://gustavopaterno.com/project/efforts-bee/</guid>
+      <description>EFForTS-BEE     Biodiversity enrichment in oil palm plantations: plant succession and integration (EFForTS-BEE)
+Status: ongoing
+ Summary     The transformation of rainforests into oil palm plantations leads to dramatic losses in biodiversity and in ecological functioning. In order to test possibilities for alleviation, we established a biodiversity enrichment experiment by planting tree islands in an oil palm landscape, systematically varying plot size and species number.</description>
+    </item>
+    
+    <item>
+      <title>Global Restore Project</title>
+      <link>https://gustavopaterno.com/project/grp/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://gustavopaterno.com/project/grp/</guid>
+      <description>Global Restore Project (GRP)     A database of ecological restoration projects around the world.
+Status: ongoing
+ Summary     The Global Restore Project is a database of ecological restoration projects around the world. Our vision for this project is long-term. We are focused on collecting species-level community vegetation monitoring data right now. In other words, we are interested in studies where folks monitored all the species that occured in their monitoring samples.</description>
+    </item>
+    
+  </channel>
+</rss>

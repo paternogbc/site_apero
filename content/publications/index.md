@@ -1,6 +1,6 @@
 ---
 title: Publications
-author: Gustavp Paterno
+author: Gustavo Paterno
 layout: standard
 page: single
 Headline: Publications
@@ -21,7 +21,7 @@ See below for a list of all my publications. Also check out my [Google scholar](
 
 ### **2025**
 
-> 29. Gleiser, G., Alcántara, J. M., Bascompte, J., Garrido, J. L., Montesinos‐Navarro, A.,<u>**Paterno, G.B.**</u>, Valiente‐Banuet, A., & Verdú, M. (2025). [The Phylogenetic Architecture of Recruitment Networks](/publication/2025-gleiser). Global Ecology and Biogeography, 34(1), e13944. [[doi]](https://doi.org/10.1111/geb.13944)
+> 28. Gleiser, G., Alcántara, J. M., Bascompte, J., Garrido, J. L., Montesinos‐Navarro, A.,<u>**Paterno, G.B.**</u>, Valiente‐Banuet, A., & Verdú, M. (2025). [The Phylogenetic Architecture of Recruitment Networks](/publication/2025-gleiser). Global Ecology and Biogeography, 34(1), e13944. [[doi]](https://doi.org/10.1111/geb.13944)
 
 ### **2024**
 
@@ -111,5 +111,8 @@ See below for a list of all my publications. Also check out my [Google scholar](
 ## Pre-prints
 
 > -   Cayetano, D. T., Zemp, D. C., Buchori, D., Fiedler, S., Grass, I., Hölscher, D., Irawan, B., Korol, Y., Khokthong, W., <u>**Paterno, G.B.**</u>, Polle, A., Potapov, A., Sundawati, L., Tscharntke, T., Westphal, C., Weigelt, P., Wiegand, K., Kreft, H., & Guerrero-Ramírez, N. R. (2023). Scale-dependent landscape-biodiversity relationships shape multi-taxa diversity in an oil palm monoculture under restoration \[Preprint\]. <https://doi.org/10.1101/2023.09.08.556058>
+
+> - Pallavi, P., Röll, A., **Paterno, G. B.**, Brambach, F., Wintz, T., Zemp, D. C., Irawan, B., Sundawati, L., Hendrayanto, H., Kreft, H., & Hölscher, D. (2025). Tree Integration in Oil Palm Plantation Enhances Leaf Area Index and Lowers Below-Canopy Temperatures. \[Preprint\]. <https://doi.org/10.2139/ssrn.5138657> 
+
 
 ![](images/02.jpeg)

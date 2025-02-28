@@ -19,14 +19,6 @@ I am interested in the interfaces between evolutionary ecology, biodiversity- ec
 -   Scientific coordinator of the tree diversity experiment EFForTS-BEE.
 -   Ambassador of the Center for Open Science.
 
-## Education
-
-<i class="fa fa-graduation-cap pr2"></i>PhD in Ecology ∙ 2018 <br> Universidade Federal do Rio Grande do Norte (2018)
-
-<i class="fa fa-graduation-cap pr2"></i>Master in Ecology ∙ 2013 <br> Universidade Federal do Rio Grande do Norte (2018)
-
-<i class="fa fa-graduation-cap pr2"></i>Ba in Ecology ∙ 2011 <br> Universidade Federal do Rio Grande do Norte (2018)
-
 ## Affiliation
 
 **Position**: Associated Researcher  
